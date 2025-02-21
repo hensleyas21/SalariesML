@@ -3,5 +3,5 @@
 ## Author
 Austin Hensley
 
-## Data Source
+## Data Sources
 [Sleep Cycle & Productivity](https://www.kaggle.com/datasets/adilshamim8/sleep-cycle-and-productivity)
